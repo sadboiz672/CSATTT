@@ -1,4 +1,4 @@
-#Tài liệu Chính sách ATTT cho 1 đơn vị
+# Tài liệu Chính sách ATTT cho 1 đơn vị
 
 - Nội dung tài liệu được xây dựng từ các thành phần trong IOS27001 và NIST(ISO chủ yếu lý thuyết, NIST chủ yếu kỹ thuật).
 - Các thông tin bản dịch gốc được lưu trong folder Tailieuthamchieu.
